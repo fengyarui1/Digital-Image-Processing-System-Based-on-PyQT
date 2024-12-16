@@ -1,0 +1,4 @@
+opencv-python
+PyQt5
+pyqt5-tools
+gradio==3.50.2
